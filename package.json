@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vanhouc/self-project/issues"
   },
-  "homepage": "https://github.com/vanhouc/self-project"
+  "homepage": "https://github.com/vanhouc/self-project",
+  "dependencies": {
+    "express": "^4.8.5"
+  }
 }
